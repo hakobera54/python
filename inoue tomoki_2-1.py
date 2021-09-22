@@ -1,0 +1,12 @@
+#ア
+a=1
+print(type(a))
+#イ
+b="True"
+print(type(b))
+#ウ
+c=""
+print(type(c))
+#エ
+d=10.0
+print(type(d))

@@ -1,0 +1,12 @@
+print('あいうえお')
+print('a','bc')
+print('d','e')
+print('1|2|3','4','5')
+print('あいうえお')
+print('かきくけこ')
+print(int('12'),end='')
+print('あいうえお')
+capital='東京'
+prefecturs=47
+print('日本の首都は',capital)
+print('都道府県は',prefecturs)
